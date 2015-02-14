@@ -4,7 +4,7 @@
 
 I am a strong believer in opensource software. So I think it is important to choose a license that fits my needs, and to make sure i contribute to the awesome opensource community.
 I released a couple of things under the MIT license. But after a little more research into opensource licenses I concluded the GPV v3 license is more what I am looking for.
-I din't write down my thoughts when choosing the MIT license. But i think i choose it for its simplicity. It is short and to the point. The 2 key points are:
+I din't write down my thoughts when choosing the MIT license. I learned from that by starting this tech-diary and writing down my thoughts one important lessons for later  But i think i choose it for its simplicity. It is short and to the point. The 2 key points are:
 
 - I am not liable, wich means i cant be sued if someone uses my code and it blows up in there face
 - Always provide this license when distributing the code
