@@ -1,5 +1,5 @@
 # tech-diary
-Diary/log of decisions i made and the arguments for them, mostly for future reference.
+Diary/log of technical lessons i learned or researc i did, mostly for future reference.
 
 Every file represents its own category. For now I have only written down some thoughts about licenses. 
 This is a good example because its the sort of thing I want to research once and then forget about it. 
