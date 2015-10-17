@@ -3,7 +3,9 @@
 ## 14-02-15
 
 ###TL;DR
-    GPL v3 
+
+[GPL v3] (https://gist.github.com/jnrbsn/708961)
+
 
 I am a strong believer in opensource software. So I wnat to make sure that some of the code I write contributes to this cause by having a opensource lincense. But then
 then there is the choice of wich opensource license to choose.  I think it is important to choose a license that fits my needs.
